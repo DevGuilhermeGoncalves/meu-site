@@ -1,3 +1,3 @@
 # aula
 
-https://devguilhermegoncalves.github.io/meu-site/
+https://devguilhermegoncalves.github.io/aula/
